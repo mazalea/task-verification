@@ -1,6 +1,5 @@
 # Task A: agent audit of sanitize-git-repo
 
-**Date:** 2026-10-26
 **Task:** Terminal-Bench 2.0, `sanitize-git-repo` (known defect on the Delphik board, issue #84)
 **Agent:** Codex CLI, model GPT-6-Luna, signed in with a free ChatGPT account
 **Setup:** run in the task folder, read-only audit. I approved only commands that list or read files.
