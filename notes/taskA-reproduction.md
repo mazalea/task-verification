@@ -1,6 +1,5 @@
 # Task A reproduction: sanitize-git-repo
 
-**Date:** 2026-10-26
 **Benchmark:** Terminal-Bench 2.0, task `sanitize-git-repo`
 **Known defect:** Delphik board, issue #84 (verifier crashes when git history is rewritten)
 **Environment:** Docker image `alexgshaw/sanitize-git-repo:20251031` (the image Harbor uses), run interactively with `tests/` mounted at `/tests`
